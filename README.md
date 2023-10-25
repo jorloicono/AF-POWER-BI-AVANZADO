@@ -6,6 +6,6 @@
 
 ## SESIÓN 1
 
-https://learn.microsoft.com/es-es/power-query/merge-queries-overview
-https://learn.microsoft.com/es-es/power-query/append-queries
-https://learn.microsoft.com/es-es/power-query/add-conditional-column
+- https://learn.microsoft.com/es-es/power-query/merge-queries-overview
+- https://learn.microsoft.com/es-es/power-query/append-queries
+- https://learn.microsoft.com/es-es/power-query/add-conditional-column
