@@ -1,6 +1,6 @@
 # AF-POWER-BI-AVANZADO
 
-- Power Query: Append y Columnas condicionales
+- GRABACIÓN 25/10: https://transcripts.gotomeeting.com/#/s/235974943de467060628139c9e96a4f6ec45c4c4bd4ceced28d97ce9111b8ac1
 
 # DOCUMENTACIÓN
 
