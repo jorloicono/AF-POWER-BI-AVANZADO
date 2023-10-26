@@ -6,12 +6,16 @@
 
 ## SESIÓN 1
 
-- https://learn.microsoft.com/es-es/power-query/merge-queries-overview
-- https://learn.microsoft.com/es-es/power-query/append-queries
-- https://learn.microsoft.com/es-es/power-query/add-conditional-column
-- https://learn.microsoft.com/en-us/dax/dax-function-reference
-- https://support.microsoft.com/es-es/office/tutorial-r%C3%A1pido-aprenda-los-fundamentos-de-dax-en-30-minutos-51744643-c2a5-436a-bdf6-c895762bec1a
-- https://learn.microsoft.com/es-es/dax/calculate-function-dax
-- https://learn.microsoft.com/es-es/dax/filter-function-dax
-- https://learn.microsoft.com/es-es/dax/parallelperiod-function-dax
-- https://learn.microsoft.com/es-es/dax/best-practices/dax-variables
+## TRANSFORMACIONES POWER QUERY
+
+  - Combinar consultas: https://learn.microsoft.com/es-es/power-query/merge-queries-overview
+  - Anexar consultas: https://learn.microsoft.com/es-es/power-query/append-queries
+  - Columnas condicionales: https://learn.microsoft.com/es-es/power-query/add-conditional-column
+
+## MEDIDAS DAX
+  - Referencia completa: https://learn.microsoft.com/en-us/dax/dax-function-reference
+  - Función CALCULATE: https://learn.microsoft.com/es-es/dax/calculate-function-dax
+  - CALCULATE con ejemplos: http://blog.blauservices.com/?p=1872
+  - Función FILTER: https://learn.microsoft.com/es-es/dax/filter-function-dax
+  - FILTER con ejemplos: https://www.excelfreeblog.com/funcion-filter-en-dax-tratado-completo/
+  - Función PARALELPERIOD: https://learn.microsoft.com/es-es/dax/parallelperiod-function-dax
