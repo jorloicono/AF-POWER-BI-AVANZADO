@@ -4,8 +4,6 @@
 
 # DOCUMENTACIÓN
 
-## SESIÓN 1
-
 ## TRANSFORMACIONES POWER QUERY
 
   - Combinar consultas: https://learn.microsoft.com/es-es/power-query/merge-queries-overview
