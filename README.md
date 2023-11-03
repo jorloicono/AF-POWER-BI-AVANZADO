@@ -43,3 +43,4 @@
   - Sincronizar Slicers: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-slicers?tabs=powerbi-desktop
   - DrillThrough: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-drillthrough
   - WHAT IF: https://learn.microsoft.com/es-es/power-bi/transform-model/desktop-what-if
+  - Seguridad a nivel de fila: https://learn.microsoft.com/es-es/power-bi/enterprise/service-admin-rls
