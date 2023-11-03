@@ -24,6 +24,8 @@
   - FILTER: https://learn.microsoft.com/es-es/dax/filter-function-dax
   - ALL: https://learn.microsoft.com/es-es/dax/all-function-dax
   - ALLSELECTED: https://learn.microsoft.com/es-es/dax/allselected-function-dax
+  - SWITCH: https://learn.microsoft.com/es-es/dax/switch-function-dax
+  - SUMX: https://learn.microsoft.com/es-es/dax/sumx-function-dax
     
 ## VISUALIZACIONES AVANZADAS
 
@@ -31,4 +33,13 @@
   - Graficos combinados: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-combo-chart?tabs=powerbi-desktop
   - Gauge: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-radial-gauge-charts?tabs=powerbi-desktop
   - ArcGIS: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualizations-arcgis
-  - 
+  - Esquema jerarquico: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-decomposition-tree
+  - Iconos personalizados: https://vandalytic.com/tutorial-power-bi-iconos-personalizados-en-formatos-condicionales/
+  - Influenciadores clave: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop
+  - Narracion inteligente: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-smart-narrative
+
+## INTERACCIÓN
+
+  - Sincronizar Slicers: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-slicers?tabs=powerbi-desktop
+  - DrillThrough: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-drillthrough
+  - WHAT IF: https://learn.microsoft.com/es-es/power-bi/transform-model/desktop-what-if
