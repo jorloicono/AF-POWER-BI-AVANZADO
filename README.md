@@ -48,3 +48,5 @@
   - DrillThrough: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-drillthrough
   - WHAT IF: https://learn.microsoft.com/es-es/power-bi/transform-model/desktop-what-if
   - Seguridad a nivel de fila: https://learn.microsoft.com/es-es/power-bi/enterprise/service-admin-rls
+  - Alerta Power Automate: https://learn.microsoft.com/es-es/power-bi/collaborate-share/service-flow-integration
+  - Boton Power Automate: https://www.linkedin.com/pulse/integrando-power-bi-con-automate-parte-2-azabache-sabando/?utm_source=share&utm_medium=member_ios&utm_campaign=share_via
