@@ -37,6 +37,10 @@
   - Iconos personalizados: https://vandalytic.com/tutorial-power-bi-iconos-personalizados-en-formatos-condicionales/
   - Influenciadores clave: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop
   - Narracion inteligente: https://learn.microsoft.com/es-es/power-bi/visuals/power-bi-visualization-smart-narrative
+  - ToolTips: https://learn.microsoft.com/es-es/power-bi/create-reports/desktop-tooltips?tabs=powerbi-desktop
+  - ToolTips II: https://aglaia.es/blog/power-bi/tooltips-power-bi/
+  - Python: https://learn.microsoft.com/es-es/power-bi/connect-data/desktop-python-visuals
+  - Matplotlib: https://matplotlib.org/stable/users/index
 
 ## INTERACCIÓN
 
