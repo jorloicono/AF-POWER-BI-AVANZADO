@@ -2,6 +2,7 @@
 
 - GRABACIÓN 25/10: https://transcripts.gotomeeting.com/#/s/235974943de467060628139c9e96a4f6ec45c4c4bd4ceced28d97ce9111b8ac1
 - GRABACIÓN 26/10: https://transcripts.gotomeeting.com/#/s/212832f517e35d546a0320f268e58e2649a3803608360407999c5c6ee569ee39
+- GRABACIÓN 27/10: https://transcripts.gotomeeting.com/#/s/798ec24abd30abee59fbeaa64ba839db7480e24441cd43987eab84562eb45f45
 
 # DOCUMENTACIÓN
 
