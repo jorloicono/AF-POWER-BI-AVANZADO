@@ -5,6 +5,7 @@
 - GRABACIÓN 06/11: https://transcripts.gotomeeting.com/#/s/798ec24abd30abee59fbeaa64ba839db7480e24441cd43987eab84562eb45f45
 - GRABACIÓN 07/11: https://transcripts.gotomeeting.com/#/s/02b3fb971d83c967860d7b5271f0cd73ea3c110ef9064e9d1d52947f38dc32a9
 - GRABACIÓN 08/11: https://transcripts.gotomeeting.com/#/s/fd84a6a9d05121bc5c6611997f7068102462ade4e1cd0b0b1d765f110dcfe61c
+- GRABACIÓN 09/11: https://transcripts.gotomeeting.com/#/s/2b784e16003e574c7ac8817ad3a30bb4f7f541f259b1e684594b3ffc91c0e611
 
 # DOCUMENTACIÓN
 
