@@ -1,12 +1,5 @@
 # AF-POWER-BI-AVANZADO
 
-- GRABACIÓN 25/10: https://transcripts.gotomeeting.com/#/s/235974943de467060628139c9e96a4f6ec45c4c4bd4ceced28d97ce9111b8ac1
-- GRABACIÓN 26/10: https://transcripts.gotomeeting.com/#/s/212832f517e35d546a0320f268e58e2649a3803608360407999c5c6ee569ee39
-- GRABACIÓN 06/11: https://transcripts.gotomeeting.com/#/s/798ec24abd30abee59fbeaa64ba839db7480e24441cd43987eab84562eb45f45
-- GRABACIÓN 07/11: https://transcripts.gotomeeting.com/#/s/02b3fb971d83c967860d7b5271f0cd73ea3c110ef9064e9d1d52947f38dc32a9
-- GRABACIÓN 08/11: https://transcripts.gotomeeting.com/#/s/fd84a6a9d05121bc5c6611997f7068102462ade4e1cd0b0b1d765f110dcfe61c
-- GRABACIÓN 09/11: https://transcripts.gotomeeting.com/#/s/2b784e16003e574c7ac8817ad3a30bb4f7f541f259b1e684594b3ffc91c0e611
-
 # DOCUMENTACIÓN
 
 ## TRANSFORMACIONES POWER QUERY
